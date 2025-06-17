@@ -12,7 +12,7 @@
    <a href="https://www.instagram.com/khanosamaraza?igsh=YzljYTk1ODg3Zg==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/muhammadosamaraza">
+   <a href="https://www.facebook.com/profile.php?id=100083050809305">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   
