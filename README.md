@@ -19,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,csharp,dotnet,postman,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,dotnet,postman,figma)](https://skillicons.dev)
 
 ![Osama Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaRazaKhan&show_icons=true&theme=dark)
 
