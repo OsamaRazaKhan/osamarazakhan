@@ -15,6 +15,9 @@
    <a href="https://www.facebook.com/profile.php?id=100083050809305">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="www.linkedin.com/in/osama-raza-060ba0281">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   
 </div>
 
